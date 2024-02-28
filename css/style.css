@@ -480,6 +480,7 @@
 .Arrows .right {
     margin-left: 35px;
     padding: 20px;
+      cursor: pointer;
 }
 
 .point-one {
